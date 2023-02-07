@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](C:\Users\Amr\Downloads\Screenshot 2023-02-07 at 17-20-07 Frontend Mentor Huddle landing page with single introductory section.png)
-[Mobile](F:\ShareX\Screenshots\2023-02\9f99izYntK.jpg)
+![Mobile](F:\ShareX\Screenshots\2023-02\9f99izYntK.jpg)
 
 
 ### Links
