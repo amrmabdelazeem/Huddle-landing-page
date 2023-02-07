@@ -2,11 +2,10 @@
 /* Background */
 body{
   background-image: url('../images/bg-desktop.svg');
-  background-repeat: no-repeat;
-  background-size: 80%;
+  max-width: 90%;
   background-color:hsl(257, 40%, 49%) ;
-
   color: #fff;
+  margin: 40px auto 20px auto;
 }
 
 .heading-icon{
